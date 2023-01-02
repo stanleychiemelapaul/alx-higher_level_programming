@@ -1,7 +1,7 @@
 # alx-higher_level_programming
 Higher Level Programming with Python
 
-##Author’s disclaimer
+## Author’s disclaimer
 
 Welcome to the Python world!
 
@@ -12,4 +12,4 @@ Like C, Python also has a linter / style guide like Betty, called PEP8, also now
 
 Enjoy!
 
-*- Guillaume
+- Guillaume
