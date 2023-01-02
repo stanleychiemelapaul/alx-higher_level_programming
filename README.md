@@ -1,5 +1,5 @@
 # alx-higher_level_programming
-Higher Level Programming with Python
+Higher Level Programming with Python Programming Language. Software Engineering Programme at ALX Cohort 9
 
 ## Author’s disclaimer
 
