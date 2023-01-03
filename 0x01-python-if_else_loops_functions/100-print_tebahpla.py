@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-print("".join(chr(ord("z") - i) if i % 2 == 0 else chr(ord("Z") - i) for i in range(26)), end="")
+for ch in reversed(range(97, 123)):
+    print("{:c}".format(ch if (ch % 2 == 0) else (ch - 32)), end='')
